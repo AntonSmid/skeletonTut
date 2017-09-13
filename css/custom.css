@@ -1,0 +1,113 @@
+.hero {
+  background-image: url(../images/svincniki.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  color: #fff;
+  padding: 50px 0px 50px 0px;
+}
+
+.hero h1 {
+  font-weight: bold;
+  color: #ffd600;
+}
+
+.divider {
+  height: 10px;
+  width: 100%;
+  background-color: #ffd600;
+}
+
+.services {
+  padding-top: 50px;
+  background: #454a4e;
+  color: #fff;
+  text-align: justify;
+}
+
+.services h3 {
+  font-weight: bold;
+}
+
+.services p {
+  text-indent: 2rem;
+}
+
+.fa {
+  display: inline-block;
+} 
+
+i {
+  color: #ffd600;
+  margin: 5px 15px 10px 0px;
+  padding: 25px 10px 1px 10px;
+  border-top: 2px solid #ffd600;
+}
+
+
+.testimonials {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.ttm {
+  text-align: justify;
+  font-size: 1.2em;
+  text-indent: 2rem;
+}
+
+.profile {
+  border-radius: 50%;
+  border: 3px solid #ffd600;
+  width: 30%;
+}
+
+.name {
+  display: inline-block;
+  margin: 15px;
+  padding-top: 20px;
+  text-transform: uppercase;
+}
+
+.past-clients {
+  padding: 50px 0;
+  background-color: #f3f3f3;
+}
+
+.p-cli {
+  text-align: center;
+}
+
+.past-clients img {
+  height: auto;
+  width: 90%;
+}
+
+.bottom-hero {
+  position: relative;
+  background-image: url(../images/forest-house-lake-idyllic.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 150px 0;
+  color: #fff;
+  text-align: center;
+}
+
+.small-divider {
+  height: 3px;
+  width: 100%;
+  background-color: #ffd600;
+}
+
+footer {
+  text-align: center;
+  background-color: #454a4e;
+  color: #fff;
+  padding: 5px;
+  font-size: 0.9em;
+}
+
+footer p {
+  margin-bottom: 0;
+}
